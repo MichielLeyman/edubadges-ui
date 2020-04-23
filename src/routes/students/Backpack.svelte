@@ -6,7 +6,6 @@
     userVerifiedByInstitution,
     userInVerificationFlow,
     userLoggedIn,
-    userRole,
     authToken
   } from "../../stores/user";
   import {Button} from "../../components";
